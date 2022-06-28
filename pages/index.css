@@ -5,3 +5,9 @@
 @import url(../blocks/content/content.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/content/__iter/conten__iter.css);
+@import url(../blocks/content/__rez/content__rez.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/form/__item/form__item.css);
+@import url(../blocks/form/__title/form__title.css);
